@@ -4,17 +4,17 @@ Comsci project for CS ATAR class, using SQL to create a database for a business.
 
 All other work (not source code) will be included in the README (here) for now, may move to another file later.
 
-If I feel like overdoing it, I may (MAYBE) might make a website to make it actually work
-(So "customers" can enter their details themselves)
-I know basic HTML at this point, I think I would primarily have to learn JS to make the website function
-and maybe CSS if I feel like making it look fancy.
+Ignore the HTML thing from before, now I might make a ui similar to the papa's pizza project that we did
+I was thinking of doing for that asignment but dropped it due to time constraints
 
 As usual, I will likely conjoin the investigation phase and development phase, 
 creating a 'draft' program just because the development is the fun part
-and investigating is boring :)
+and investigating is boring :
 
 Note: This is my first time using GitHub/Git for anything ever
 so I may be doing thing improperly, (like the readme formatting?)
+
+
 
 # INVESTIGATE
 # Development Timeline
